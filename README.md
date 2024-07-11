@@ -16,14 +16,14 @@
 
 - ⚡ Fun fact **I love to make complex origami and I can speak 3 languages.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Reach me out</h3>
 <p align="left">
 <a href="https://codepen.io/rokibul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rokibul-islam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rokibulislam01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rokibulislam01" height="30" width="40" /></a>
 <a href="https://fb.com/rokibulislampro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rokibulislampro" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">⚔️ Languages and Tools:</h3>
 <div style="text-align: center; display: flex; flex-wrap: wrap; justify-content: center;">
   <p align="center">
     <a href="">
@@ -32,7 +32,7 @@
   </p>
   <p align="center">
     <a href="">
-      <img src="https://skillicons.dev/icons?i=node,express,mongodb,redux,git,github" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redux,git,github" />
     </a>
   </p>
   <p align="center">
@@ -42,7 +42,10 @@
   </p>
 </div>
 
+<h3 align="left">📈 Current stats:</h3>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Rebakum&theme=tokyonight&mode=weekly&type=png"/>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rokibulislam101&show_icons=true&locale=en" alt="rokibulislam101" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rokibulislam101&" alt="rokibulislam101" /></p>
+<a href="https://github.com/Rebakum"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rebakum&show_icons=true&locale=en&theme=tokyonight&layout=compact" width="45%" /></a>
+<a href="https://github.com/ASLAM-stack"><img src="https://github-readme-stats.vercel.app/api?username=Rebakum&show_icons=true&locale=en&theme=tokyonight" width="50%" /></a>
