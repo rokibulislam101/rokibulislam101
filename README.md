@@ -31,12 +31,12 @@
 </p>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=node,express,mongodb,redux,git" />
+    <img src="https://skillicons.dev/icons?i=node,express,mongodb,redux,git,github" />
   </a>
 </p>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=firebase,figma,aws" />
+    <img src="https://skillicons.dev/icons?i=firebase,npm,figma,aws" />
   </a>
 </p>
 
