@@ -149,6 +149,17 @@
   </div>
 </div>
 
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css,firebase" />
+  </a>
+</p>
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=express,mongodb,figma,github" />
+  </a>
+</p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rokibulislam101&show_icons=true&locale=en" alt="rokibulislam101" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rokibulislam101&" alt="rokibulislam101" /></p>
