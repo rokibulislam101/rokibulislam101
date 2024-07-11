@@ -43,9 +43,12 @@
 </div>
 
 <h3 align="left">📈 Current stats:</h3>
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=rokibulislam101&theme=tokyonight&mode=weekly&type=png"/>
-</div>
+</div> -->
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=rokibulislam101&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 
 <a href="https://github.com/rokibulislam101"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibulislam101&show_icons=true&locale=en&theme=tokyonight&layout=compact" width="45%" /></a>
 <a href="https://github.com/rokibulislam101"><img src="https://github-readme-stats.vercel.app/api?username=rokibulislam101&show_icons=true&locale=en&theme=tokyonight" width="50%" /></a>
