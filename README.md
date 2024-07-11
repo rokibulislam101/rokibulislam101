@@ -24,21 +24,24 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react" />
-  </a>
-</p>
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=node,express,mongodb,redux,git,github" />
-  </a>
-</p>
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=firebase,npm,figma,aws" />
-  </a>
-</p>
+<div style="text-align: center; display: flex; flex-wrap: wrap; justify-content: center;">
+  <p align="center">
+    <a href="">
+      <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="">
+      <img src="https://skillicons.dev/icons?i=node,express,mongodb,redux,git,github" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="">
+      <img src="https://skillicons.dev/icons?i=firebase,npm,figma,aws" />
+    </a>
+  </p>
+</div>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rokibulislam101&show_icons=true&locale=en" alt="rokibulislam101" /></p>
 
