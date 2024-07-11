@@ -44,8 +44,8 @@
 
 <h3 align="left">📈 Current stats:</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rebakum&theme=tokyonight&mode=weekly&type=png"/>
+  <img src="https://streak-stats.demolab.com?user=rokibulislam101&theme=tokyonight&mode=weekly&type=png"/>
 </div>
 
-<a href="https://github.com/Rebakum"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rebakum&show_icons=true&locale=en&theme=tokyonight&layout=compact" width="45%" /></a>
-<a href="https://github.com/ASLAM-stack"><img src="https://github-readme-stats.vercel.app/api?username=Rebakum&show_icons=true&locale=en&theme=tokyonight" width="50%" /></a>
+<a href="https://github.com/rokibulislam101"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibulislam101&show_icons=true&locale=en&theme=tokyonight&layout=compact" width="45%" /></a>
+<a href="https://github.com/rokibulislam101"><img src="https://github-readme-stats.vercel.app/api?username=rokibulislam101&show_icons=true&locale=en&theme=tokyonight" width="50%" /></a>
